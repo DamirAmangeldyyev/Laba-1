@@ -1,0 +1,6 @@
+sym1 = input()
+sym2 = sym1.title()
+if sym1 == sym2:
+    print('yes')
+else:
+    print('no')
